@@ -1,16 +1,16 @@
 <span id="a">ryze@misty</span>:<span id="b">~</span><span id="c">$</span> cd RyZeMisty/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
 <span id="a">ryze@misty</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->ryzemisty.txt<br/><br/>
-My favorite quote, "<span id="k">TEST</span>". <!-- sjkfhskjf -->
+My favorite quote, "<span id="k">hmm?</span>". <!-- sjkfhskjf -->
 
 Hey There! This is my website I work on as a hobby.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Below you can find links to my socials and an introduction of myself.</p>
 <p>On most platforms I go by the name <a href="https://www.urbandictionary.com/define.php?term=RyZe%20Misty">"RyZe Misty"</a>.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> I am an aspiring student studying the game design; and hope to be a part of a game studio working on the next hit game!</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+<p> I am an aspiring student studying the arts of game design; and hope to be a part of a game studio working on the next hit game!</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>I am also very intrigued by many topics surrounding computer science, and I consider myself a hobbyist when it comes to all things related to computing. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> You can find links to my social medias, here: <br> <a href="link1">Twitch</a> <br> <a href="https://www.youtube.com/channel/UC1McoZaqgIazbEjRvmw827A">YouTube</a> <br> <a href="https://www.instagram.com/ryzemisty/">Instagram</a>.</p>
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
+Enough about me, I'm curious to hear about you!<!-- slightdelayhere--> If you have any queries, or if you want to talk to me about anything, feel free to add my Discord:<!-- longlonglongcomment -->"<span id="z">RyZe Misty</span>""<span id="i">#3774</span>".
 
-<p>Cheers!</p>
+<p>Farewell!</p>
 
 
 <!-- some useful stuff
