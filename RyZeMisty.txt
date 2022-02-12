@@ -3,8 +3,8 @@
 My favorite quote, "<span id="k">TEST</span>". <!-- sjkfhskjf -->
 
 Hey There! This is my website I work on as a hobby.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Below you can find links to my socials and an introduction of myself.</p>
-<p>On most platforms I go by the name "RyZe Misty".</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> I am an aspiring student studying the game design; and hope to be a part of a game studio working on the next hit game!<a href="https://www.urbandictionary.com/define.php?term=RyZe%20Misty"> hmm?</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>On most platforms I go by the name <a href="https://www.urbandictionary.com/define.php?term=RyZe%20Misty">"RyZe Misty"</a>.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> I am an aspiring student studying the game design; and hope to be a part of a game studio working on the next hit game!</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
 
