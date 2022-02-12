@@ -5,10 +5,10 @@ My favorite quote, "<span id="k">hmm?</span>". <!-- sjkfhskjf -->
 Hey There! This is my website I work on as a hobby.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Below you can find links to my socials and an introduction of myself.</p>
 <p>On most platforms I go by the name <a href="https://www.urbandictionary.com/define.php?term=RyZe%20Misty">"RyZe Misty"</a>.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> I am an aspiring student studying the arts of game design; and hope to be a part of a game studio working on the next hit game!</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>I am also very intrigued by many topics surrounding computer science, and I consider myself a hobbyist when it comes to all things related to computing. <br><br><br></p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can find links to my social medias, here: <br> <a href="link1">Twitch</a> <br> <a href="https://www.youtube.com/channel/UC1McoZaqgIazbEjRvmw827A">YouTube</a> <br> <a href="https://www.instagram.com/ryzemisty/">Instagram</a>.</p>
+<p>I am also very intrigued by many topics surrounding computer science, and I consider myself a hobbyist when it comes to all things related to computing. <br><br> </p><!-- a short delay dasdas -->
+<p> You can find links to my social medias, here: <br> <a href="https://www.twitch.tv/ryzemisty">Twitch</a> <br> <a href="https://www.youtube.com/channel/UC1McoZaqgIazbEjRvmw827A">YouTube</a> <br> <a href="https://www.instagram.com/ryzemisty/">Instagram</a>.</p>
 
-Enough about me, I'm curious to hear about you!<!-- slightdelayhere--> If you have any queries, or if you want to talk to me about anything, feel free to add my Discord:<!-- longlonglongcomment -->"<span id="z">RyZe Misty</span><span id="i">#3774</span>".
+Enough about me, I'm curious to hear about you!<!-- slightdelayhere which may be longer if i feel liek it--> If you have any queries, or if you want to talk to me about anything, feel free to add my Discord:<!-- longlonglongcomment -->"<span id="z">RyZe Misty</span><span id="i">#3774</span>".
 
 <p>Farewell!</p>
 
